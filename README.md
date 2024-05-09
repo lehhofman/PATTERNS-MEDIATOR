@@ -16,7 +16,7 @@ O padrão Mediator é útil em casos em que:
 - A adição de novos componentes tende a aumentar a complexidade do sistema.
 
 ## Diagrama de classes:
-<div align="center"><img src="MEDIATOR.png" alt="Diagrama de Classe" width="50%" /></div>
+<div align="center"><img src="MediatorR.png" alt="Diagrama de Classe" width="50%" /></div>
 
 ## Implementação em JavaScript
 
