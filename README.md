@@ -1,8 +1,6 @@
-# Mediator Pattern
+# <p align="center">Mediator Pattern</p>
 
 O padrão Mediator é um padrão comportamental que promove o desacoplamento entre componentes de um sistema, permitindo que eles interajam entre si de forma organizada e indireta, através de um objeto mediador central.
-
-![Diagrama de Classe](MEDIATOR.png)
 
 ## Introdução
 
@@ -15,6 +13,9 @@ O padrão Mediator é útil em casos em que:
 - O comportamento entre objetos se torna complexo e difícil de entender devido a múltiplas interações diretas.
 - Há muitas dependências entre objetos, levando a um alto acoplamento.
 - A adição de novos componentes tende a aumentar a complexidade do sistema.
+
+## Diagrama de classes:
+<div align="center"><img src="MEDIATOR.png" alt="Diagrama de Classe" width="50%" /></div>
 
 ## Implementação em JavaScript
 
