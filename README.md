@@ -2,7 +2,7 @@
 
 O padrão Mediator é um padrão comportamental que promove o desacoplamento entre componentes de um sistema, permitindo que eles interajam entre si de forma organizada e indireta, através de um objeto mediador central.
 
-![Diagrama de Classe](https://exemplo.com/diagrama_de_classe.png)
+![Diagrama de Classe](Mediator.png)
 
 ## Introdução
 
