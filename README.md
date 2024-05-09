@@ -1,4 +1,5 @@
 # <p align="center">Mediator Pattern</p>
+<p align="center"><img src="https://github.com/lehhofman/PATTERNS-MEDIATOR/assets/140626600/7673fc2f-1356-4965-8056-a312c93f88c9" alt="Mediator Pattern" width="100px" style="float:left; margin-right:10px;"></p>
 
 O padrão Mediator é um padrão comportamental que promove o desacoplamento entre componentes de um sistema, permitindo que eles interajam entre si de forma organizada e indireta, através de um objeto mediador central.
 
